@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 * Frontend Development ✨
 
 
- <h2> My tech stack 📚 </h2>
+ <h2> 📚 My tech stack  </h2>
 
 ![HTML5](https://img.shields.io/badge/-HTML5-F05032?style=for-the-badge&logo=html5&logoColor=ffffff)
 ![CSS3](https://img.shields.io/badge/-CSS3-007ACC?style=for-the-badge&logo=css3)
@@ -67,6 +67,18 @@ Here are some ideas to get you started:
  * Started learning TypeScript!🌱
  * Learning Algorithms with JavaScript.
  * Create Todo App.
+
+## :memo: Blog
+
+<!-- BLOG-POST-LIST:START -->
+- [xmindev](https://xmindev.tistory.com/)
+
+## :link: Links
+<p align="center">
+
+  <a href="https://www.instagram.com/xmin.oh"><img src="https://img.icons8.com/color/96/000000/instagram-new.png" alt="instagram"/></a>
+</p>
+
 
  
 
