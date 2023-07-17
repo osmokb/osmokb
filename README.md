@@ -19,8 +19,6 @@ Here are some ideas to get you started:
 <h1>Welcome to my profile page </h1> 
 
 <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/matrix.gif' alt = 'Awesome Matrix Code' align='right'/>
-
-[![Gmail Badge](https://img.shields.io/badge/-osm9161@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:osm9161@gmail.com)](mailto:osm9161@gmail.com)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=osmokb" alt="osmokb" /> </p>
 
 <div style="text-align: right">My mbti type is ISFP</div>
@@ -75,7 +73,7 @@ Here are some ideas to get you started:
 
 ## :link: Links
 <p align="center">
-
+	<a href="mailto:osm9161@gmail.com"><img src="https://img.icons8.com/color/96/000000/gmail.png" alt="email"/></a>
   <a href="https://www.instagram.com/xmin.oh"><img src="https://img.icons8.com/color/96/000000/instagram-new.png" alt="instagram"/></a>
 </p>
 
