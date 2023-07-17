@@ -20,16 +20,16 @@ Here are some ideas to get you started:
 
 <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/matrix.gif' alt = 'Awesome Matrix Code' align='right'/>
 
-[![Linkedin Badge](https://img.shields.io/badge/-haanyali-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/haany-ali)](https://www.linkedin.com/in/haany-ali) [![Gmail Badge](https://img.shields.io/badge/-asterp04@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:asterp04@gmail.com)](mailto:asterp04@gmail.com) [![Youtube Channel](https://img.shields.io/badge/-The%20Broke%20Coder-c14438?style=flat-square&logo=Youtube&link=https://www.youtube.com/channel/UCietjxpksncMdOUkycv5nqA)](https://www.youtube.com/channel/UCietjxpksncMdOUkycv5nqA)
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=MarikIshtar007" alt="MarikIshtar007" /> </p>
+[![Gmail Badge](https://img.shields.io/badge/-osm9161@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:osm9161@gmail.com)](mailto:osm9161@gmail.com)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=osmokb" alt="osmokb" /> </p>
 
-<div style="text-align: right">There are 10 types of people in the world. Those who get Binary and those who don't.. </div>
+<div style="text-align: right">My mbti type is ISFP</div>
 
 ## :computer: Technologies I Love
 * React
 * Frontend Development
 
-<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=MarikIshtar007&layout=compact">
+
 
 ## Programming Languages
 <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/css.svg' width='30'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/js.svg' width='30'/> 
@@ -53,13 +53,13 @@ Here are some ideas to get you started:
 	
 	def Ambitions():
 		Become a buuilding owner()
-    Publishing a book()🌱
+ 		Publishing a book()
 		# Assume 10 more awesome ambitions here  ;)
 	
  ```
  
 ## Current Works
- * Started learning TypeScript!
+ * Started learning TypeScript!🌱
  * Learning Algorithms with JavaScript.
  * Create Todo App.
 
