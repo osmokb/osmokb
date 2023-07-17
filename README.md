@@ -18,13 +18,15 @@ Here are some ideas to get you started:
 
 <h1>Welcome to my profile page </h1> 
 
-<img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/matrix.gif' alt = 'Awesome Matrix Code' align='right'/>
+<img width="490" height="270" src="https://media.giphy.com/media/9B8wYztAoe1zO/source.gif" align=right>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=osmokb" alt="osmokb" /> </p>
+
 
 <div style="text-align: right">My mbti type is ISFP</div>
 
 ## :computer: Technologies I Love
-* React
+* React⚡️
 * Frontend Development ✨
 
 
