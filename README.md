@@ -68,8 +68,8 @@ class WhoAmI {
  ```
  
 ## Current Works
- * Started learning TypeScript!🌱
- * Learning Algorithms with JavaScript.
+ * Started learning TypeScript and Next.js!🌱
+ * Solve Algorithmic Problems with JavaScript.
  * Create Todo App.
 
 ## :memo: Blog
