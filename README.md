@@ -42,24 +42,28 @@ Here are some ideas to get you started:
 
 
  ## Who am I?
- ```python
- class WhoAmI:
- 	user = 'Seugmin Oh'
-		current_work = 'Writing code'
-		hobbies = [
-				'Body Building',
-				'Watching Movie',
-				'Going out to eat good food with nice people'
-			]
-	
-	def getCity():
-		return Seoul()
-	
-	def Ambitions():
-		Become a buuilding owner()
- 		Publishing a book()
-		Travel the world()
-		# Assume 10 more awesome ambitions here  ;)
+ ```JavaScript
+class WhoAmI {
+	constructor() {
+		this.user = 'Seugmin Oh';
+		this.current_work = 'Writing code';
+		this.hobbies = [
+			'Body Building',
+			'Watching Movie',
+			'Going out to eat good food with nice people'
+		];
+	}
+   
+	getCity() {
+		return 'Seoul';
+	}
+   
+	Ambitions() {
+		return ['Become a building owner', 'Publishing a book', 'Travel the world'];
+		// Assume 10 more awesome ambitions here  ;)
+	}
+}
+
 	
  ```
  
