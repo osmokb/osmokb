@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=osmokb" alt="osmokb" /> </p>
 
 
-<div style="text-align: right">My mbti type is ISFP</div>
+<div style="text-align: right">My mbti type is INTP</div>
 
 ## :computer: Technologies I Love
 * React⚡️
